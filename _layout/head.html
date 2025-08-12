@@ -12,11 +12,8 @@
   {{if hasmdpad}} <link rel="stylesheet" href="/css/mdpad.css"> {{end}}
   {{if hasmath}} <link rel="stylesheet" href="/libs/katex/katex.min.css"> {{end}}
   {{if hascode}} <link rel="stylesheet" href="/libs/highlight/styles/github.css"> {{end}}
-  <title>Cyril-Costes</title> 
+   {{isdef title}} <title>{{fill title}}</title>  {{end}}
 </head>
 <body>
 <!-- Content appended here -->
-<div style="text-align: center;">
-  <img src="/assets/me.jpg" alt="Cyril's Photo">
-</div>
-
+{{insert image.html}}
