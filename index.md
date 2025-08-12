@@ -24,21 +24,7 @@ CSS \
 **Operating Systems:** Windows, MacOS
 ## Skills and Projects
 
-~~~
-<style>
-.no-number .katex-display::after {
-  counter-increment: nothing;
-  content: "";
-}
 
-img {
-  border-radius:115px 50px 30px 5px;
-  width: 300px;
-  height: 400px;
-  object-fit: cover;
-}
-</style>
-~~~
 
 - **Innovation Proposal (Academic Project)**  \
   *Concordia University, Montreal, QC — July 2025 - Aug 2025*  

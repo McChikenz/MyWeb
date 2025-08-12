@@ -12,6 +12,12 @@
     <script src="/libs/mdpad/mithril.min.js"></script>
   {{end}}
   <link rel="stylesheet" href="/css/franklin.css">
+  <link rel="stylesheet" href="/css/custom.css">
+  {{if hasmdpad}} <link rel="stylesheet" href="/css/mdpad.css"> {{end}}
+  {{if hasmath}} <link rel="stylesheet" href="/libs/katex/katex.min.css"> {{end}}
+  {{if hascode}} <link rel="stylesheet" href="/libs/highlight/styles/github.css"> {{end}}
+  {{if hasplotly}} <link rel="stylesheet" href="/libs/plotly/plotly.css"> {{end}}
+  {{insert head_custom.html }}
   {{isdef title}} <title>{{fill title}}</title>  {{end}}
 </head>
 <body>
