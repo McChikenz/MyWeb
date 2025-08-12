@@ -5,7 +5,7 @@
 
 
 
-![Photo of Cyril](/assets/me.jpg)
+![Photo of Cyril](/_assets/me.jpg)
 
 ## Cyril Szekiel Costes
 
