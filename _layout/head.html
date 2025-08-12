@@ -6,20 +6,17 @@
   {{if hasmath}} {{insert head_katex.html }}     {{end}}
   {{if hascode}} {{insert head_highlight.html }}   {{end}}
   {{if hasplotly}} <script src="/libs/plotly/plotly.min.js"></script> {{end}}
-  {{if hasmdpad}}
-    <script src="/libs/mdpad/mdpad.min.js"></script>
-    <script src="/libs/mdpad/mdpad-mithril.js"></script>
-    <script src="/libs/mdpad/mithril.min.js"></script>
-  {{end}}
+
   <link rel="stylesheet" href="/css/franklin.css">
   <link rel="stylesheet" href="/css/custom.css">
   {{if hasmdpad}} <link rel="stylesheet" href="/css/mdpad.css"> {{end}}
   {{if hasmath}} <link rel="stylesheet" href="/libs/katex/katex.min.css"> {{end}}
   {{if hascode}} <link rel="stylesheet" href="/libs/highlight/styles/github.css"> {{end}}
-  {{if hasplotly}} <link rel="stylesheet" href="/libs/plotly/plotly.css"> {{end}}
   {{isdef title}} <title>{{fill title}}</title>  {{end}}
 </head>
 <body>
-
+  <div style="text-align: center;">
+    <img src="/assets/me.jpg" alt="Cyril's Photo">
+  </div>
 
 <!-- Content appended here -->

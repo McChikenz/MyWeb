@@ -3,21 +3,6 @@
 @def hascode = true
 
 
-
-<!-- ~~~
-<div class="row">
-  <div class="container">
-    <img class="left" src="/assets/rndimg.jpg">
-
-    <div style="clear: both"></div>      
-  </div>
-</div>
-~~~ -->
-
-
-
-
-
 ## Cyril Szekiel Costes
 
 I am pursuing a **Bachelor of Computer Science** and am part of the **Co-op program** at Concordia University in Montreal. The program provides strong foundations in programming and algorithms. I'm developing skills in multiple programming languages including Java, Python, and C/C++, while working on hands-on academic projects and lab work.
