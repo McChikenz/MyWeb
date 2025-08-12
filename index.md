@@ -2,15 +2,20 @@
 @def hasmath = true
 @def hascode = true
 
-@@row
-@@container
-@@left ![](/assets/rndimg.jpg) @@
-@@
+
 
 ~~~
-<div style="clear: both"></div>
+<div class="row">
+  <div class="container">
+    <img class="left" src="/assets/rndimg.jpg">
+
+    <div style="clear: both"></div>      
+  </div>
+</div>
 ~~~
-@@
+
+
+
 
 
 ## Cyril Szekiel Costes
