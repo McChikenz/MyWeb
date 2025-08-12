@@ -1,4 +1,3 @@
-## Cyril Costes
 
 ## Cyril Szekiel Costes
 
