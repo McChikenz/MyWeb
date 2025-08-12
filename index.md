@@ -31,16 +31,12 @@ CSS \
   content: "";
 }
 
-
 img {
   border-radius:115px 50px 30px 5px;
   width: 300px;
   height: 400px;
   object-fit: cover;
 }
-
-
-
 </style>
 ~~~
 
