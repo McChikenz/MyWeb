@@ -3,5 +3,8 @@
 @def hasplotly = false
 @def hasmdpad = false
 
-@def generate_rss = false
+generate_rss = true
 website_title = "Cyril Costes"
+website_descr = "Personal Wesbite"
+website_url   = "https://McChikenz.github.io/MyWeb/"
++++

@@ -1,4 +1,6 @@
-
+@def title = "Cyril Costes"
+@def hasmath = false
+@def hascode = false
 
 ## Cyril Szekiel Costes
 
