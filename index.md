@@ -2,7 +2,6 @@
 @def hasmath = true
 @def hascode = true
 
-![](/assets/me.jpg)
 ## Cyril Szekiel Costes
 
 I am pursuing a **Bachelor of Computer Science** and am part of the **Co-op program** at Concordia University in Montreal. The program provides strong foundations in programming and algorithms. I'm developing skills in multiple programming languages including Java, Python, and C/C++, while working on hands-on academic projects and lab work.
