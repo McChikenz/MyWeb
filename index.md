@@ -1,4 +1,4 @@
-@def title = "Franklin Sandbox"
+@def title = "Cyril Costes"
 @def hasmath = true
 @def hascode = true
 
