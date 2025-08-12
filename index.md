@@ -4,10 +4,13 @@
 
 @@row
 @@container
-![Photo of Cyril](/assets/me.jpg)
-@@
+@@left ![](/assets/rndimg.jpg) @@
 @@
 
+~~~
+<div style="clear: both"></div>
+~~~
+@@
 
 
 ## Cyril Szekiel Costes
