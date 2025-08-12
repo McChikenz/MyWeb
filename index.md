@@ -2,7 +2,7 @@
 @def hasmath = true
 @def hascode = true
 
-![Photo of Cyril](./assets/me.jpg)
+![Photo of Cyril](../assets/me.jpg)
 
 ## Cyril Szekiel Costes
 
