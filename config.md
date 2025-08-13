@@ -7,4 +7,6 @@
 
 @def mintoclevel = 2
 
+@def ignore = ["node_modules/", "franklin", "franklin.pub"]
+
 
