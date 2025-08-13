@@ -10,8 +10,6 @@
 </div>
 
 
-
-
 <div style="text-align: center;">
   <h2><b>Cyril Szekiel Costes</b></h2>
 </div>
