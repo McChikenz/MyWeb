@@ -5,15 +5,16 @@
 +++
 
 
-<!-- ![Cyril's Photo](/image/me.jpg) -->
 <div style="text-align: center;">
-  <img src="/image/me.jpg" alt="Cyril's Photo" style="max-width: 100%; height: auto;" />
+  <img src="/image/me.jpg" alt="Cyril's Photo" style="border-radius:115px 50px 30px 5px; width: 300px; height: 400px; object-fit: cover; max-width: 100%;" />
 </div>
 
 
 
 
-## Cyril Szekiel Costes
+<div style="text-align: center;">
+  <h2><b>Cyril Szekiel Costes</b></h2>
+</div>
 
 I am pursuing a **Bachelor of Computer Science** and am part of the **Co-op program** at Concordia University in Montreal. The program provides strong foundations in programming and algorithms. I'm developing skills in multiple programming languages including Java, Python, and C/C++, while working on hands-on academic projects and lab work.
 
