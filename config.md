@@ -1,10 +1,10 @@
-@def author = "The Oracle"
-
+@def author = "Cyril Costes"
 @def hasplotly = false
 @def hasmdpad = false
 
-generate_rss = true
-website_title = "Cyril Costes"
-website_descr = "Personal Wesbite"
-website_url   = "https://McChikenz.github.io/MyWeb/"
-+++
+@def website_title = "cyril costes" 
+@def website_descr = "My personal website" 
+
+@def mintoclevel = 2
+
+
