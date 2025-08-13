@@ -2,11 +2,15 @@
 @def hasplotly = false
 @def hasmdpad = false
 
-@def website_title = "cyril costes" 
-@def website_descr = "My personal website" 
+@def website_title = "cyril costes"
+@def website_descr = "My personal website"
 
 @def mintoclevel = 2
 
 @def ignore = ["node_modules/", "franklin", "franklin.pub"]
+
+@def title = "Cyril Costes"
+@def hasmath = true
+@def hascode = true
 
 
