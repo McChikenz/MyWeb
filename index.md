@@ -1,3 +1,6 @@
++++
+title = "Default Site Title"
++++
 
 <div style="text-align: center;">
   <img src="/image/me.jpg" alt="Cyril's Photo" style="border-radius:115px 50px 30px 5px; width: 300px; height: 400px; object-fit: cover; max-width: 100%;" />
