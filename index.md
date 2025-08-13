@@ -4,10 +4,12 @@
  hascode = true
 +++
 
-~~~
-<link rel="stylesheet" href="/css/custom.css">
-~~~
-![Cyril's Photo](/image/me.jpg)
+
+<!-- ![Cyril's Photo](/image/me.jpg) -->
+<div style="text-align: center;">
+  <img src="/image/me.jpg" alt="Cyril's Photo" style="max-width: 100%; height: auto;" />
+</div>
+
 
 
 
