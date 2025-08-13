@@ -1,6 +1,3 @@
-+++
-title = "cyril costes"
-+++
 
 
 <div style="text-align: center;">
