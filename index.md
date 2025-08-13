@@ -1,6 +1,8 @@
-@def title = "Cyril Costes"
-@def hasmath = true
-@def hascode = true
++++
+ title = "Cyril Costes"
+ hasmath = true
+ hascode = true
++++
 
 ![Cyril's Photo](/image/me.jpg)
 
