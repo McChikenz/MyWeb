@@ -1,8 +1,6 @@
-+++
- title = "Cyril Costes"
- hasmath = true
- hascode = true
-+++
+@def title = "Cyril Costes"
+@def hasmath = true
+@def hascode = true
 
 
 <div style="text-align: center;">
