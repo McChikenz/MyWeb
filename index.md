@@ -4,7 +4,11 @@
  hascode = true
 +++
 
+~~~
+<link rel="stylesheet" href="/css/custom.css">
+~~~
 ![Cyril's Photo](/image/me.jpg)
+
 
 
 ## Cyril Szekiel Costes

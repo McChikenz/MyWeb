@@ -1,7 +1,3 @@
-.no-number .katex-display::after {
-  counter-increment: nothing;
-  content: "";
-}
 
 img {
   border-radius:115px 50px 30px 5px;
