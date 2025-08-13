@@ -8,7 +8,7 @@ I’m passionate about building efficient, scalable software and eager to apply 
 ## Programming Languages and Platforms
 
 **Languages:** Java, C/C++, Python, Assembly x86, HTML, JavaScript, CSS  
-**Platforms:** Ubuntu, Linux  
+**Platforms:** Ubuntu, Oracle  
 **Operating Systems:** Windows, macOS
 
 ## Skills and Projects
