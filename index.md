@@ -64,4 +64,4 @@ I’m passionate about building efficient, scalable software and eager to apply 
 
 ## Contact Information
 
-* [Email](mailto:cyrilszekiel@gmail.com) / [GitHub](https://github.com/McChikenz) / [LinkedIn](https://www.linkedin.com/in/cyril-costes/)
+* [GitHub](https://github.com/McChikenz) / [LinkedIn](https://www.linkedin.com/in/cyril-costes/)
